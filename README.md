@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="ypad" src="https://github.com/user-attachments/assets/aa715af9-b46b-4111-8635-5fd85d547e8e" />
+<img width="600" height="600" alt="ypad" src="https://github.com/user-attachments/assets/aa715af9-b46b-4111-8635-5fd85d547e8e" />
 
 
 # WD5ACP_Ypad
