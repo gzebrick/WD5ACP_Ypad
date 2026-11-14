@@ -14,7 +14,7 @@ For the 991 menu item should be configured as follows:
 
 028  GPS/232C Select = RS232C
 029 232C Rate = 38400bps (recommended, but make sure the ypad host baud rate setting matches).
-030 232 TOT  = 10ms 
+030 232 TOT  = 10ms  
 
 3D case files if interested...
 https://www.tinkercad.com/things/4W4bnj26UHi-cydvertcase-v2
