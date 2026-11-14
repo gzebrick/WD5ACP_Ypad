@@ -2,9 +2,9 @@
 
 <img width="700" height="350" alt="Screenshot 2026-11-14 091755" src="https://github.com/user-attachments/assets/299b5bc6-7b8d-497a-b6ab-5d72f7e14144" />
 
-<img width="650" height="600" alt="IMG_1381" src="https://github.com/user-attachments/assets/24ca5d0d-e7da-4b32-b3a1-7c373842da07" />
+<img width="500" height="500" alt="IMG_1381" src="https://github.com/user-attachments/assets/24ca5d0d-e7da-4b32-b3a1-7c373842da07" />
 
-<img width="450" height="600" alt="IMG_1382" src="https://github.com/user-attachments/assets/7ead76ee-9734-4bf0-8156-c6e82b62ae51" />
+<img width="350" height="400" alt="IMG_1382" src="https://github.com/user-attachments/assets/7ead76ee-9734-4bf0-8156-c6e82b62ae51" />
 
 
 # WD5ACP_Ypad
