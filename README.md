@@ -24,7 +24,9 @@ i  recommend this one, since it matches the I/O code for the TTL port plus the d
  
 https://a.co/d/018AxG0h
  
-The TTL board just plugs into the 4-conductor cable attached to CN1 on the CYD.
+The TTL board just plugs into the 4-conductor cable attached to CN1 on the CYD. Something like this:
+
+https://a.co/d/01Hyzxh7
  
 Plug the CYD into a USB port on your PC
 I use the free Visual Studio program (with the added platformio extension) to compile and download. 
