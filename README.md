@@ -20,3 +20,25 @@ For the 991 menu item should be configured as follows:
 3D case files if interested...
 https://www.tinkercad.com/things/4W4bnj26UHi-cydvertcase-v2
 
+i  recommend this one, since it matches the I/O code for the TTL port plus the display. There are lots of CYDs out there, with some variation on what ports are exposed and the I/O ports for the display, LED and touch.
+ 
+https://a.co/d/018AxG0h
+ 
+The TTL board just plugs into the 4-conductor cable attached to CN1 on the CYD.
+ 
+Plug the CYD into a USB port on your PC
+I use the free Visual Studio program (with the added platformio extension) to compile and download. 
+
+Just install Visual Studio. See you-tube for info on adding the platformio extension.
+Download the entire ypad folder onto your pc. Unzip it if it is compressed. 
+Open Visual Studio, open the added platformio extension, then within the platformio home page, select open project. Just click on the ypad folder.
+Now all you need to do is open the source code main.cpp file, Visual Studio should go out and load up any library files it needs for the program.
+click on the right arrow on the bottom of the screen and it should compile and download it into your ypad
+ 
+Once it is downloaded and it starts, you'll need to open your WiFi manager on your PC and connect to the ypad portal at least once. The ypad portal  192.168.4.1 is where you tell the ypad what wifi network/password to use.  It will then reboot and connect to your assigned WiFi network
+ 
+The ypad config page can now be accessed on your local network from ypad.local. Configure the baud rate, etc if needed, and set up the 10 button labels, text color and macro code. With luck you're connected to your radio and one-touch will perform the functions you desire.
+ 
+There's 2 other menu screens on the ypad itself. One for setting up brightness and rebooting/recal/reconfigure wifi.. and another menu page for showing status (IP address and MAC).
+
+
