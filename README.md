@@ -27,6 +27,11 @@ https://a.co/d/018AxG0h
 The TTL board just plugs into the 4-conductor cable attached to CN1 on the CYD. Something like this:
 
 https://a.co/d/01Hyzxh7
+
+and your 232 cable only needs 3 conductors. Ground, TX and RX. It's got to be a cross-over (pin 2 <> pin 3 / pin 3 <> pin 2)
+
+<img width="600" height="542" alt="232" src="https://github.com/user-attachments/assets/c38e2b61-facd-4ff4-983b-6c684cf212cb" />
+
  
 Plug the CYD into a USB port on your PC
 I use the free Visual Studio program (with the added platformio extension) to compile and download. 
