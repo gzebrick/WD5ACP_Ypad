@@ -48,4 +48,7 @@ The ypad config page can now be accessed on your local network from ypad.local. 
  
 There's 2 other menu screens on the ypad itself. One for setting up brightness and rebooting/recal/reconfigure wifi.. and another menu page for showing status (IP address and MAC).
 
+<img width="666" height="417" alt="Screenshot 2026-11-24 115338" src="https://github.com/user-attachments/assets/55df70be-1faf-4f68-9711-5e824a42437a" />
+
+
 
